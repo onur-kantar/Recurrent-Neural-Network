@@ -1,2 +1,2 @@
 # Recurrent-Neural-Network
-Example of Recurrent Neural Network (DT) (Türkçe)
+Example of Recurrent Neural Network (RNN) (Türkçe)
